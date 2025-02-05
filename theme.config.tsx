@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'αCentauri | 2025 | Paraguay',
+    text: 'αCentauri - 2025 - Paraguay',
   },
 }
 
