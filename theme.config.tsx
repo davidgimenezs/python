@@ -4,10 +4,10 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Python</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/davidgimenezs/python',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/d5UVYtqv',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
