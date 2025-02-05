@@ -1,7 +1,7 @@
 {
   "name": "python-docs",
   "version": "0.0.1",
-  "description": "Python tutorial documentation using Nextra",
+  "description": "Python Course documentation using Nextra",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
