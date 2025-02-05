@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/davidgimenezs/python',
   footer: {
-    text: 'αCentauri 2025 Paraguay',
+    text: 'Paraguay 2025',
   },
 }
 
