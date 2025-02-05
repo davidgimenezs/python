@@ -3,13 +3,13 @@
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
   "about": {
-    "title": "About",
+    "title": "Acerca de",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contacto ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://x.com/davidgimenez_s",
     "newWindow": true
   }
 }
