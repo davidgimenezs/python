@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/d5UVYtqv',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/davidgimenezs/python',
   footer: {
     text: 'αCentauri 2025 Paraguay',
   },
