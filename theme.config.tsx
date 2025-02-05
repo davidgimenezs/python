@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/d5UVYtqv',
   },
-  docsRepositoryBase: 'https://github.com/davidgimenezs/python',
+  docsRepositoryBase: 'https://github.com/davidgimenezs/python/tree/main',
   footer: {
     text: 'De estudiantes, para estudiantes.',
   },
