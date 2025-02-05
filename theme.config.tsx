@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/davidgimenezs/python/tree/main',
   footer: {
-    text: 'Paraguay 2025',
+    text: 'De estudiantes, para estudiantes.',
   },
 }
 
