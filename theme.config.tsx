@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Python</span>,
   project: {
-    link: 'https://github.com/davidgimenezs/python',
+    link: 'https://github.com/davidgimenezs/python/tree/main',
   },
   chat: {
     link: 'https://discord.gg/d5UVYtqv',
