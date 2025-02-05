@@ -10,6 +10,9 @@ const config: DocsThemeConfig = {
     link: 'https://discord.com',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  footer: {
+    text: 'αCentauri | 2025 | Paraguay',
+  },
 }
 
 export default config
